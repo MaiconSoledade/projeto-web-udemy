@@ -3,3 +3,9 @@
 body{
     background-color: violet;
 }
+
+table{
+    border-color:yellow;
+    border-width: 10px;
+   
+}
